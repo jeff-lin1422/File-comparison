@@ -1,3 +1,7 @@
 # File-comparison
 
-This project will take in any two files, calculate its word frequencies, compute the Jensen-Shannon distance between the frequencies, and output a result that shows the similarity of the two files. If any of the files are folders, all the files within the folders will be used as a comparison. 
+This project will take in any two files and return how similar they are. This project utilizes all concepts below but not limited to such as: 
+* Calculating word frequencies.
+* Computation of Jensen-Shannon distance.
+* Multithreading for faster performance.
+
